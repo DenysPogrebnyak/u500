@@ -2,5 +2,5 @@ print("hello!")
 
 print("Hi!!")
 
-input d
-Print ( "data" d )
+input abc
+Print ( "data", abc )
